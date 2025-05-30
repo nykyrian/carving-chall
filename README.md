@@ -8,4 +8,7 @@ The link to the adhoc github and the ctf google sheets with the solutions (you g
 https://docs.google.com/spreadsheets/d/1XwW-TKzu9PbR8AuJQfk6TKj8_cY2ClU564VCD6PCe6k/edit?gid=59777443#gid=59777443
 https://github.com/adhocsmith/ADHOC_CTF_2024/tree/main/challenges/networking 
 Google Drive
-[2:16 AM]maydeen.bt: it works in my Kali 
+
+
+
+https://www.dropbox.com/scl/fi/hkvf715mnj4pkfcbro59b/Kali-linux-ADHOC.zip?rlkey=erl41w29bznwo8c6jcvlgq8zc&st=0837vwib&dl=0
